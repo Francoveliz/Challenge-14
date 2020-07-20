@@ -190,8 +190,8 @@ body {
   border-radius: 5px;
   background: -webkit-gradient(linear, left top, right top, from(#a3a8f0), to(#696fdd));
   background: linear-gradient(90deg, #a3a8f0, #696fdd);
-  -webkit-transition: .3s ease;
-  transition: .3s ease;
+  -webkit-transition: 1s ease;
+  transition: 1s ease;
 }
 
 .card__container .card button:hover {
@@ -214,8 +214,8 @@ body {
 .card__container .card:nth-child(2) button {
   background: #fff;
   color: #696fdd;
-  -webkit-transition: .3s ease;
-  transition: .3s ease;
+  -webkit-transition: 1s ease;
+  transition: 1s ease;
 }
 
 .card__container .card:nth-child(2) button:hover {
